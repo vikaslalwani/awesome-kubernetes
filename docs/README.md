@@ -73,6 +73,7 @@ Starting Point
 * [Application Containers: Kubernetes and Docker from Scratch](https://keithtenzer.com/containers/application-containers-kubernetes-and-docker-from-scratch/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 * [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) by [Deis](https://github.com/deis)
+* [Kubernetes Katas, A selection of exercises for Kubernetes](https://github.com/eficode-academy/kubernetes-katas/)
 * [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
 * [Docker Kubernetes Lab Handbook](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 * [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
@@ -104,6 +105,7 @@ Starting Point
 * [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained-dde470707cb2)
 * [How to Manage Secrets in Kubernetes – A Complete Guide](https://spacelift.io/blog/kubernetes-secrets)
 * [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
+* [Fluent Bit with Kubernetes](https://www.manning.com/books/fluent-bit-with-kubernetes) by [Phil Wilkins](https://www.linkedin.com/in/philwilkins/)
 
 Contributing
 =======================================================================
